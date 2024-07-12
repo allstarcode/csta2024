@@ -7,5 +7,5 @@ export default defineConfig({
   build: {
     outDir: 'docs',
   },
-  base: '/CSTA2024/',
+  base: '/csta2024/',
 });
